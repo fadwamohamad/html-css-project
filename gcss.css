@@ -1,0 +1,32 @@
+img,#searchBox {margin-left: auto;
+margin-right: auto;
+display: block;}
+
+#googleSearch {display: inline-block; margin-left: 520px;
+margin-right: auto;}
+#feelingLucky {display: inline-block;}
+
+li {font-family: arial,sans-serif;
+font-size: 13px; list-style: none; display: inline-block;}
+
+nav {text-align: right; padding-right: 160px; word-spacing: 10px;}
+
+#userName {opacity: .55;}
+
+a, a:visited {color: black; text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+img, #searchBox {display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+img {margin-top: 200px}
+#searchBox{
+    width: 35%;
+    height: 30px;
+}
+#googleSearch {display: inline-block; margin-left: 520px;
+margin-right: auto;}
+#feelingLucky {display: inline-block;}
